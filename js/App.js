@@ -1,6 +1,6 @@
 /**
 *  Module
-*
+* bla
 * Description
 */
 var myapp=angular.module('myapp', ['ngRoute']);
